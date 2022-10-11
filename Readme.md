@@ -32,3 +32,4 @@ and this is responsive for mobile screens and laptop screens
 
 
 ## Deployed Link
+[Interiror Design Page](https://interiror-ui-design.netlify.app/)
